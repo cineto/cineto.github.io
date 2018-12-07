@@ -1038,19 +1038,17 @@ h2.footnotes{
 }
 
 .todo{
-    background-color: #f29f97;
     padding: 0px 4px;
-    color: #fff;
+    color: #6ab0de;
 }
 
 .WAIT, .nilWAIT{
-    background-color: #6AB097;
+    color: #f1c40f;
 }
 
 .done{
-    background-color: #6ab0de;
     padding: 0px 4px;
-    color: #fff;
+    color:  #117a65;
 }
 
 .tag span {
